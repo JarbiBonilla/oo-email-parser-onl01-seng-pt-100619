@@ -13,4 +13,7 @@ class EmailAddressParser
     @@all << self
   end
   
+  def parse
+    
+  end
 end
